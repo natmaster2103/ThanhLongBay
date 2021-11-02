@@ -258,7 +258,7 @@ section {
 } 
 
 #sec-1{
-    background: url(./assets/img/Sec1_BG.png) top center / cover no-repeat;
+    background: url(../assets/img/Sec1_BG.png) top center / cover no-repeat;
     height: 923px;
     padding-top:282px;
 }
